@@ -1,0 +1,10 @@
+C:\Users\Katon Desktop\Documents\School\CST117\Exercise4\Exercise4\bin\Debug\Exercise4.exe.config
+C:\Users\Katon Desktop\Documents\School\CST117\Exercise4\Exercise4\bin\Debug\Exercise4.exe
+C:\Users\Katon Desktop\Documents\School\CST117\Exercise4\Exercise4\bin\Debug\Exercise4.pdb
+C:\Users\Katon Desktop\Documents\School\CST117\Exercise4\Exercise4\obj\Debug\Exercise4.csprojResolveAssemblyReference.cache
+C:\Users\Katon Desktop\Documents\School\CST117\Exercise4\Exercise4\obj\Debug\Exercise4.Form1.resources
+C:\Users\Katon Desktop\Documents\School\CST117\Exercise4\Exercise4\obj\Debug\Exercise4.Properties.Resources.resources
+C:\Users\Katon Desktop\Documents\School\CST117\Exercise4\Exercise4\obj\Debug\Exercise4.csproj.GenerateResource.cache
+C:\Users\Katon Desktop\Documents\School\CST117\Exercise4\Exercise4\obj\Debug\Exercise4.csproj.CoreCompileInputs.cache
+C:\Users\Katon Desktop\Documents\School\CST117\Exercise4\Exercise4\obj\Debug\Exercise4.exe
+C:\Users\Katon Desktop\Documents\School\CST117\Exercise4\Exercise4\obj\Debug\Exercise4.pdb
